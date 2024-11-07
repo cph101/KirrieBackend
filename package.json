@@ -1,0 +1,13 @@
+{
+  "name": "KirrieBackend",
+  "version": "1.0.0",
+  "description": "Backend server for Kirrie.app",
+  "main": "index.js",
+  "repository": "https://github.com/cph101/KirrieBackend",
+  "author": "cph101",
+  "license": "All Rights Reserved",
+  "private": true,
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
